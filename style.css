@@ -823,6 +823,8 @@ h4 {
 
 .bg-presentation {
     background-image: url("img/image-de-presentation.webp");
+    background-image: image-set(
+            url("image-de-presentation.bmp");
 }
 
 @media (max-width: 1024px) {
