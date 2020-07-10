@@ -362,6 +362,15 @@ a:hover {
     z-index: 2;
 }
 
+input:focus {
+    background-color: #f1e3c2;
+}
+a:focus {
+    font-size: larger;
+    background-color: #f1e3c2;
+}
+
+
 @media (min-width: 768px) {
     .site-navigation {
         position: absolute;
