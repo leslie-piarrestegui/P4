@@ -996,7 +996,7 @@ h4 {
     }
     .bloc-sm,
     .bloc-md {
-        padding-left: 0;
+        padding-left: 15px;
         padding-right: 0;
     }
     .bloc-tile-2 .container,
