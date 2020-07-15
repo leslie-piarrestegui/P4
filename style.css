@@ -795,6 +795,12 @@ h4 {
     background: #c27956!important;
     color: #FFFFFF!important;
 }
+.btn-atomic-tangerine:focus{
+    border: red solid 2px;
+}
+.focus:focus{
+    border: red solid 2px;
+}
 
 .ltc-white {
     color: #FFFFFF!important;
